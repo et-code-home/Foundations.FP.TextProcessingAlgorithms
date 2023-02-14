@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-1. Clone this repo.
+1. Fork & clone this repo.
 2. In your terminal, run `npm install`.
 3. In your terminal, run `npm test`.
 4. Edit `script.js` until you are passing all test cases!
