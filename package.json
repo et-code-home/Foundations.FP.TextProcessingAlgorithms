@@ -1,0 +1,23 @@
+{
+  "name": "foundations.tdd.textprocessingalgorithms.solution",
+  "version": "1.0.0",
+  "description": "foundations.tdd.textprocessingalgorithms.solution",
+  "main": "script.js",
+  "scripts": {
+    "test": "mocha script_test.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullstackAcademy/Foundations.TDD.TextProcessingAlgorithms.Solution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullstackAcademy/Foundations.TDD.TextProcessingAlgorithms.Solution/issues"
+  },
+  "homepage": "https://github.com/FullstackAcademy/Foundations.TDD.TextProcessingAlgorithms.Solution#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
